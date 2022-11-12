@@ -1,1 +1,1 @@
-Basic password generator.
+Scrimba Solo Project - Basic password generator.
